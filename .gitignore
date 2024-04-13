@@ -1,0 +1,13 @@
+/ruff_format_results.txt
+/ruff_check_results.txt
+/model.pth
+/Database
+/logs
+/cache
+/.vscode
+/.venv
+/models
+/samples
+/Utils/__pycache__
+/archive.zip
+/garbage_classification

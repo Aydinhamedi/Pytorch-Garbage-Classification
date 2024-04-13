@@ -1,0 +1,1 @@
+tensorboard --logdir logs\tensorboard --reload_interval 5 --reload_multifile True
