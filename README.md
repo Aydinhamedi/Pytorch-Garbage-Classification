@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 
-Welcome to the repository of our garbage classification project! We have developed a model using PyTorch and EfficientNet-B4 that classifies garbage into twelve different types. The model has achieved an impressive accuracy of **98.66%**.
+Welcome to the repository of our garbage classification project! We have developed a model using PyTorch and EfficientNet-B4 that classifies garbage into twelve different types. The model has achieved an impressive accuracy of **98.45%**.
 
 ## Dataset
 
@@ -33,7 +33,7 @@ jupyter notebook Main.ipynb
 
 ## Results
 
-Our model achieved an accuracy of **98.66%** on the test set. This is a significant improvement over previous models, demonstrating the power of EfficientNet-B4 and PyTorch.
+Our model achieved an accuracy of **98.45%** on the test set. This is a significant improvement over previous models, demonstrating the power of EfficientNet-B4 and PyTorch.
 
 
 ## License
