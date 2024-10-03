@@ -7,6 +7,8 @@
 
 Welcome to the repository of our garbage classification project! We have developed a model using PyTorch and EfficientNet-B4 that classifies garbage into twelve different types. The model has achieved an impressive accuracy of **98.45%**.
 
+<h3>🚧 I made a new version here: https://github.com/Aydinhamedi/Pytorch-Garbage-Classification-V2 with a significantly improved training process + code and a different dataset 🚧</h3>
+
 ## Dataset
 
 The dataset used for this project is the [Garbage Classification (12 classes) Dataset](https://www.kaggle.com/datasets/mostafaabla/garbage-classification) from Kaggle. It contains images of garbage, divided into twelve categories.
